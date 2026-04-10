@@ -8,6 +8,12 @@ Place photos of suspects, persons of interest, and evidence on a canvas, then co
 
 Also known as: Evidence Board, Crazy Board, Link Board.
 
+## Demo
+
+Try Sousa in your browser:  
+[https://apu-and-opu.github.io/sousa/](https://apu-and-opu.github.io/sousa/)
+
+
 ## Features
 
 - Place **people, evidence, and memos** as cards on the canvas

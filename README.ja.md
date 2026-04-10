@@ -9,6 +9,11 @@ Sousa（ソウサ）は、警察の捜査支援ツールです。
 相関図とも呼ばれます。
 英語では、「Investigation Board」、「Evidence Board」、「Crazy Board」、「Link Board」とも呼ばれます。
 
+## デモ
+
+こちらから Sousa を試せます。  
+[https://apu-and-opu.github.io/sousa/](https://apu-and-opu.github.io/sousa/)
+
 ## 主な機能
 
 - **人物・証拠・メモ** をカードとしてキャンバスに配置
