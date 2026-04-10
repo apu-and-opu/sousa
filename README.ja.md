@@ -14,6 +14,11 @@ Sousa（ソウサ）は、警察の捜査支援ツールです。
 こちらから Sousa を試せます。  
 [https://apu-and-opu.github.io/sousa/](https://apu-and-opu.github.io/sousa/)
 
+## ダウンロード
+
+Windows 版アプリ（.exe）はこちらです。  
+[https://github.com/apu-and-opu/sousa/releases/latest](https://github.com/apu-and-opu/sousa/releases/latest)
+
 ## 主な機能
 
 - **人物・証拠・メモ** をカードとしてキャンバスに配置

@@ -13,6 +13,10 @@ Also known as: Evidence Board, Crazy Board, Link Board.
 Try Sousa in your browser:  
 [https://apu-and-opu.github.io/sousa/](https://apu-and-opu.github.io/sousa/)
 
+## Download
+
+Get the Windows app here (.exe):  
+[https://github.com/apu-and-opu/sousa/releases/latest](https://github.com/apu-and-opu/sousa/releases/latest)
 
 ## Features
 
